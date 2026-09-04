@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack in Deapth.**
 
-- 📫 How to reach me **christianalish07@gmail.com**
+- 📫 Contact me at **christianalish07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
